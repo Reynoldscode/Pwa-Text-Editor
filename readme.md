@@ -26,3 +26,8 @@ This command will start both the backend server and serve the client.
 - Clicking the Install button allows downloading the web application as an icon on the desktop.
 
 
+github Gist URL: https://github.com/Reynoldscode/Pwa-Text-Editor
+
+giturl : 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
